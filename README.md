@@ -7,4 +7,4 @@ Projects completed related to Udacity Deep Learning Nanodegree Foundations Progr
                ~67% accuracy of testset after training
 3. Project 3 - LSTM RNN to generate Moe's Tavern scripts from The Simpsons based on a training set of scripts from the actual series. Built in Tensorflow.
 4. Project 4 - SeqToSeq model based on LSTM cell for translating simple sentences from English to French. Built in Tensorflow.
-5. Project 5 - Convolutional GAN to generate realistic faces, trained on CelebA dataset.
+5. Project 5 - Convolutional GAN to generate realistic faces, trained on CelebA dataset. Built in Tensorflow.
